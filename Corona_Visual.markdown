@@ -11,7 +11,7 @@ corona_data_df = corona_data_df[corona_data_df['Total Cases'] >=1000]
 df = corona_data_df[['Country','Total Cases']]
 df
 ```
-<img src='coronavirus_cases.png' width="400"/>
+<img src='img2.png' width="400"/>
 
 #### Using the new DataFrame we created, i was able to visualize the total number of cases in each country
 
