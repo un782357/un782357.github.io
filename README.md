@@ -1,10 +1,10 @@
-## Welcome 
+# Welcome 
 
 Hello World! Welcome to my Neuro Data Science Coding Portfolio. My name is Unity and I am a Fourth year Biology and Neuroscience student at Dalhousie University. 
 
 
-### Intermediate Python
-## Basic Plots with Matplotlib
+## Intermediate Python
+# Basic Plots with Matplotlib
 
 # Data Visualization
 Very inmportant in Data Analysis
