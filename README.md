@@ -9,13 +9,8 @@ Here is an an example of a code i wrote to [create a dataframe](dataframe.markdo
 ### Basic Plots with Matplotlib
 
 #### Data Visualization
-Very inmportant in Data Analysis
-Explor Data
-
-#### Matplotlib
-import matplotlib.pyplot as plt
-
+Here is another example of code i wrote to [Clean up and Visualize the data](Corona_Visual.markdown) from the [initial dataframe](dataframe.markdown)
 
 ### Support or Contact
 
-You can reach me at: 
+Feel free to reach me at [Unity Cooper](mailto:un782357@dal.ca).
