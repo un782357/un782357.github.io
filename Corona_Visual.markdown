@@ -13,7 +13,7 @@ df
 ```
 <img src='img2.png' width="400"/>
 
-#### Using the new DataFrame we created, i was able to visualize the total number of cases in each country
+#### Using the new DataFrame I created, I was able to visualize the total number of cases in each country
 
 ```python
 df.plot(kind='bar', x='Country', y='Total Cases')
@@ -33,4 +33,4 @@ plt.show()
 <img src='img1.png' width="900"/>
 
 #### From the graph you can clearly see all the countries with more than a 1000 cases. 
-#### You can also see that USA, Spain, China, Italy, Germany, Iran, and France have a high number of cases.
+#### You can also see that USA, Spain, China, Italy, Germany, Iran, and France have the highest number of cases.
