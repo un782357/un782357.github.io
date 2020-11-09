@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome 
+
 Hello World! Welcome to my Neuro Data Science Coding Portfolio. My name is Unity and I am a Fourth year Biology and Neuroscience student at Dalhousie University. 
 
 You can use the [editor on GitHub](https://github.com/un782357/un782357.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
