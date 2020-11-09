@@ -33,4 +33,4 @@ plt.show()
 <img src='img1.png' width="900"/>
 
 #### From the graph you can clearly see all the countries with more than a 1000 cases. 
-#### You can also see that USA, Spain, China, Italy, Germany, Iran, and France have the highest number of coronavirus cases.
+#### You can also see that USA, Spain, China, Italy, Germany, Iran, and France have the highest number of COVID-19 cases.
