@@ -4,13 +4,13 @@ Hello World! Welcome to my Neuro Data Science Coding Portfolio. My name is Unity
 
 
 ## Intermediate Python
-# Basic Plots with Matplotlib
+### Basic Plots with Matplotlib
 
-# Data Visualization
+#### Data Visualization
 Very inmportant in Data Analysis
 Explor Data
 
-# Matplotlib
+#### Matplotlib
 import matplotlib.pyplot as plt
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
