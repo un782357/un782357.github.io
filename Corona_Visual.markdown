@@ -1,6 +1,6 @@
 ### Visualizing the DataFrame
 
-#### From initial datafarme we created I am going to create a new Dataframe that shows all the countries where the total number of cases is more than 1000.
+#### From the initial datafarme I created I am going to create a new Dataframe that shows all the countries where the total number of cases is more than 1000.
 
 ```python
 import pandas as pd
